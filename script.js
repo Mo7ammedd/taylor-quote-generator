@@ -28,9 +28,9 @@ const boxShadowColors = {
   "Folklore": " rgba(209, 140, 255, 0.21) ",
 };
 
-btn.addEventListener("click", getRandomJoke);
+btn.addEventListener("click", getRandomquote);
 
-async function getRandomJoke() {
+async function getRandomquote() {
   try {
     const response = await fetch("https://taylor-swift-lyrics-eaia.onrender.com/get");
     const data = await response.json();
