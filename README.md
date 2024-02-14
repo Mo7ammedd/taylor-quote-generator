@@ -13,7 +13,6 @@ A simple web application that generates random quotes from Taylor Swift.
 - [License](https://github.com/Mo7ammedd/taylor-quote-generator/blob/main/LICENSE)
 
 ## Features
-List the key features of your project. For example:
 - Generates random Taylor Swift quotes.
 - Responsive design for mobile and desktop.
 
@@ -43,7 +42,7 @@ Now the application should be up and running. You can access it through your bro
   * From a song : ```https://taylorswiftapi.onrender.com/get-all?album=<album>```
 
 ## Contributing
-  * visit my repo to Contributin with my API  [click here](https://github.com/Mo7ammedd/taylor-swift)
+  * visit my repo to Contributing with my API  [click here](https://github.com/Mo7ammedd/taylor-swift)
   * Contribute your favourite taylor lyrics / quotes
   * Add the lyrics / quotes to `taylorquotes.js`
   * While adding a quote, keep album and song fields as none
@@ -59,5 +58,5 @@ Now the application should be up and running. You can access it through your bro
 
 - MIT License
 - Copyright 2023 © 
-- [Mohammed MOstafa](https://github.com/mo7ammedd)
+- [Mohammed Mostafa](https://github.com/mo7ammedd)
 - [Yousef hassany](https://github.com/youssefhassany)
