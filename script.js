@@ -51,7 +51,6 @@ async function getRandomquote() {
 
       document.body.style.backgroundImage = `url('${imageURL}')`;
       
-      // Update the box shadow color for the .rand element
       const randElement = document.querySelector(".rand");
       if (randElement) {
         randElement.style.boxShadow = `0 0 30px 10px ${boxShadowColor}`;
@@ -61,6 +60,7 @@ async function getRandomquote() {
         buttonElement.style.backgroundColor = boxShadowColor;
         buttonElement.style.borderColor = boxShadowColor;
       }
+      
       document.body.style.backgroundImage = `url('${imageURL}')`;
 
       const songElement = document.createElement("p");
