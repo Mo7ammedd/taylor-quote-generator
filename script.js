@@ -17,7 +17,7 @@ const albumImages = {
 
 const boxShadowColors = {
   "Taylor Swift": "rgba(255, 0, 0, 0.5)", 
-  "Fearless": " rgba(255, 252, 127, 0.21)  ",
+  "Fearless": " rgba(255, 252, 127, 0.10)  ",
   "Reputation": "rgba(0, 0, 255, 0.5)",
   "Lover": "rgba(255, 255, 0, 0.5)",
   "Midnights": "rgba(0, 255, 255, 0.5)",
@@ -40,7 +40,7 @@ async function getRandomquote() {
       return;
     }
 
-    heading.innerHTML = data.quote;
+    heading.innerHTML = `" ${data.quote} "`;
 
     if (data.song && data.album) {
       const songName = data.song;
