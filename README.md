@@ -1,4 +1,8 @@
 # Taylor Quote Generator
+<div>
+<img src="https://camo.githubusercontent.com/2ed6cdddd8454fef5b988b8d1a400852dc72d38ba7ca31f0744fbf889cb5b14b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f3761435373633673783973393277626d2f67697068792e676966" alt="My Terminal" width="600" height="400">
+</div>
+
 
 A simple web application that generates random quotes from Taylor Swift.
 <div>
