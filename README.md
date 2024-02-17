@@ -1,10 +1,13 @@
 # Taylor Quote Generator
-<img src="./img/readme.gif" alt="My Terminal" width="600" height="400">
+<div>
+<img src="![image](https://github.com/Mo7ammedd/taylor-quote-generator/assets/128194288/049dc233-6214-459e-bba9-b3fcead34f15)
+">
+<div>
 
 A simple web application that generates random quotes from Taylor Swift.
 <div>
 <img src="https://github.com/Mo7ammedd/taylor-quote-generator/blob/main/redpic.png?raw=true" alt="My Terminal" width="600" height="400">
-</div>
+<div>
 
 ## Table of Contents
 - [Demo](https://taylor-quotes.vercel.app/)
