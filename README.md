@@ -1,4 +1,5 @@
 # Taylor Quote Generator
+<img src="./img/readme.gif" alt="My Terminal" width="600" height="400">
 
 A simple web application that generates random quotes from Taylor Swift.
 <div>
