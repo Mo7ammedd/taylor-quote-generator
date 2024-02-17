@@ -1,5 +1,5 @@
 # Taylor Quote Generator
-   ![](taylor.gif)
+<img src="taylor.gif" alt="Taylor" width="500"/>
 
 
 
