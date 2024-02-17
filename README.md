@@ -1,7 +1,7 @@
 # Taylor Quote Generator
-<div>
-![](taylor.gif)
-<div>
+   ![](taylor.gif)
+
+
 
 A simple web application that generates random quotes from Taylor Swift.
 
