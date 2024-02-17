@@ -1,8 +1,7 @@
 # Taylor Quote Generator
-<div>
-<img src="![image](https://github.com/Mo7ammedd/taylor-quote-generator/assets/128194288/049dc233-6214-459e-bba9-b3fcead34f15)
-">
-<div>
+
+![](taylor.gif)
+
 
 A simple web application that generates random quotes from Taylor Swift.
 <div>
