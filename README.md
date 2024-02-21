@@ -1,5 +1,5 @@
 # Taylor Quote Generator
-<img src="./img/taylor-swift-cheers.gif" alt="Taylor" width="300"/>
+<img src="./img/readme2.gif" alt="Taylor" width="300"/>
 
 
 
