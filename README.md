@@ -59,7 +59,6 @@ Now the application should be up and running. You can access it through your bro
 ## License
 
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
 - MIT License
 - Copyright 2024 © 
 - [Mohammed Mostafa](https://github.com/mo7ammedd)
