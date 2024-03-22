@@ -55,7 +55,6 @@ Now the application should be up and running. You can access it through your bro
   * adding endpoints / making other suggestions
     
 
-
 ## License
 
 [![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
