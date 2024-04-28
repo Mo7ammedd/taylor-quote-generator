@@ -9,7 +9,7 @@ const albumImages = {
   "Speak Now": "./img/sk.jpg",
   "1989": "./img/1989.jpg",
   "Evermore": "./img/ever.jpg",
-  "Folklore": "./img/folklore.jpg",
+  "Folklore": "./img/Folklore.jpg",
 };
 
 const boxShadowColors = {
