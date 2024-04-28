@@ -32,7 +32,7 @@ btn.addEventListener("click", getRandomquote);
 
 async function getRandomquote() {
   try {
-    const response = await fetch("https://taylor-swift-lyrics-eaia.onrender.com/get");
+    const response = await fetch("https://taylor-swift-quotes.onrender.com/api/v1/quote");
     const data = await response.json();
 
     if (!data.quote) {
