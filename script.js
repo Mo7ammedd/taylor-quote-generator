@@ -1,5 +1,5 @@
 const albumImages = {
-  "THE TORTURED POETS DEPARTMENT": "./img/album.jpg", 
+  "THE TORTURED POETS DEPARTMENT": "./img/ttpd.webp", 
   "Fearless": "./img/fear.jpg",
   "Taylor Swift": "./img/taylor.jpg",
   "Reputation": "./img/rep.jpg",
